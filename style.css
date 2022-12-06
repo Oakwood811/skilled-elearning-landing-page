@@ -1,4 +1,4 @@
-:root{
+/* :root{
   font-family: 'Plus Jakarta Sans';
   line-height: 30px;
   color: #13183F;
@@ -10,27 +10,12 @@
   color: #f74780;
   color: rgb(240, 42, 166), rgb(255,111,72);
   color: rgb(72, 81, 255), rgb(240,42,166);
-}
-*,* ::before, ::after{
+} */
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-html, body {
-  height: 100%;
-}
-img, picture, video, canvas, svg {
-  display: block;
-  max-width: 100%;
-}
-input, button, textarea, select {
-  font: inherit;
-}
 
-body{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
 
